@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "API para acceder a la base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "API",
+    "database",
+    "mysql"
+  ],
+  "author": "J. Lugo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
